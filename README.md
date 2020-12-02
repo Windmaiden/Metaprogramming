@@ -1,3 +1,6 @@
+Link to PyPi:
+https://test.pypi.org/project/go-analyser/0.0.1/#description
+
 # GO-analyser
 
 Program for analyse code in Go Language.
