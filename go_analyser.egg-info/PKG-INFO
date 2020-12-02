@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: go-analyser
+Version: 0.0.1
+Summary: lab 2, Go analysis
+Home-page: https://github.com/Windmaiden/Metaprogramming
+Author: Katsubo Stas
+Author-email: stasio850@gmail.com
+License: UNKNOWN
+Description: # GO-analyser
+        
+        Program for analyse code in Go Language.
+        
+        ### Install
+        Use python >= 3.6
+        ```
+        >> pip install go-analysis
+        ```
+        
+        ### Usage
+        For verify you code use:
+        ```shell script
+        >> go-analysis --verify (-f|-d|-p) path
+        ```
+        For fix you code use:
+        ```shell script
+        >> go-analysis --fix (-f|-d|-p) path
+        ```
+        
+        ### Analyse Features
+        - Package Clause
+        - Import Clause
+        - Whitespaces
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
