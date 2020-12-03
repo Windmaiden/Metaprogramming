@@ -8,6 +8,8 @@ Program for analyse code in Go Language.
 ### Install
 Use python >= 3.6
 ```
+>>pip install -i  https://test.pypi.org/simple/ go-analyser
+
 >> pip install go-analysis
 ```
 
