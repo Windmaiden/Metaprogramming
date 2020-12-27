@@ -1,2 +1,1 @@
-#Metaprogramming
 Katsubo Stas Labs
